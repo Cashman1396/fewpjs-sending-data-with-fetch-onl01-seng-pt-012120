@@ -1,5 +1,9 @@
 // Add your code here
+<<<<<<< HEAD
 function submitData( name, email ) {
+=======
+unction submitData( name, email ) {
+>>>>>>> b7a6cba27f215644f27d1817da9e9c0e7f3e29d9
   return fetch( 'http://localhost:3000/users', {
       method: "POST",
       headers: {
